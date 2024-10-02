@@ -34,7 +34,7 @@ print("After save operation")
 
 
 # In this code, the my_handler function runs five times, printing
-# a message and pausing for one second during each iteration. This mimics
+# a message and pausing for one second during each iteration. This shows
 # a signal handler that takes time to complete.
 
 # The message "After save operation" is printed only after the
